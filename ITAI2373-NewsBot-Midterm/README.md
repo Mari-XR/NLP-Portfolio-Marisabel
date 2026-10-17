@@ -3,7 +3,7 @@
 ## Project Overview
 NewsBot is a Natural Language Processing (NLP) project that analyzes BBC news articles using text preprocessing, machine learning, and other NLP techniques.
 
-##Project Video Link
+## Project Video Link
 ITAI2373-NewsBot-Midterm/MT_Video_Group_Purple Berries_KhalidaBestani_SadiaSaeed_Marisabel Morales Berrezueta_ITAI2373.mp4
 
 ## Dataset
