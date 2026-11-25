@@ -71,8 +71,8 @@ The numbered notebooks are sections split out of the full notebook (outputs pres
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/bestbout/NLP-Portfolio_KhalidaBestani
-cd NLP-Portfolio_KhalidaBestani/ITAI2373-NewsBot-Final
+git clone https://github.com/Mari-XR/NLP-Portfolio-Marisabel.git
+cd NLP-Portfolio-Marisabel.git
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 pytest -q tests          # 14 tests
