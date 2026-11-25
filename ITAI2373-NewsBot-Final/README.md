@@ -101,7 +101,7 @@ Per the team's technical documentation, Khalida led **Module A – Advanced Cont
 - **Challenges I solved:** One of my biggest challenges was transforming our Google Colab project into a working web application. I had to integrate the different modules, resolve compatibility issues, test the features, and prepare the application for public deployment.
 - **What I learned:** I learned how to turn an NLP project into a real, interactive web application. I also improved my understanding of multilingual processing, Python integration, testing, and deployment using GitHub and Streamlit Community Cloud. Most importantly, I learned how to make a technical project more accessible and useful for other people.
 
-More detail: [docs/individual_contributions.md](docs/individual_contributions.md). Team-level reflection: [reports/FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf](reports/FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf).
+More detail: [docs/Individual_Contributions_Marisabel_Morales.md](docs/Individual_Contributions_Marisabel_Morales.md). Team-level reflection: [reports/FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf](reports/FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf).  
 
 ## 📄 Reports
 - [Executive summary](reports/executive_summary.pdf)
