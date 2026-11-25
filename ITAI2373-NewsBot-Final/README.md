@@ -97,9 +97,9 @@ print(bot.ask("show positive tech articles and summarize article 3"))
 ## 👩‍💻 Individual contribution summary – Khalida Bestani
 Per the team's technical documentation, Khalida led **Module A – Advanced Content Analysis** (classification with tuning and confidence scores, LDA/NMF topic modeling, sentiment, entity relationships) and shared **Module D** (intent processing, query handling, system integration). Presenter for slides 3–8.
 
-- **My key work:** TODO (Khalida: list the specific parts you implemented)
-- **Challenges I solved:** TODO
-- **What I learned:** TODO
+- **My key work:** I worked on Module C (Multilingual Intelligence), collaborated on Module D (Conversational Interface), and developed the NewsBot 2.0 web application using Streamlit. I integrated all four NLP modules into an interactive interface and published the application online.
+- **Challenges I solved:** One of my biggest challenges was transforming our Google Colab project into a working web application. I had to integrate the different modules, resolve compatibility issues, test the features, and prepare the application for public deployment.
+- **What I learned:** I learned how to turn an NLP project into a real, interactive web application. I also improved my understanding of multilingual processing, Python integration, testing, and deployment using GitHub and Streamlit Community Cloud. Most importantly, I learned how to make a technical project more accessible and useful for other people.
 
 More detail: [docs/individual_contributions.md](docs/individual_contributions.md). Team-level reflection: [reports/FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf](reports/FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf).
 
@@ -110,7 +110,7 @@ More detail: [docs/individual_contributions.md](docs/individual_contributions.md
 - [Reflective journal](reports/FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf)
 
 ## 🤝 AI assistance attribution
-AI tools were used to help organise this repository: refactoring the notebook's code into the `src/` module files, writing docstrings, tests and documentation (summarised from our technical report), and drafting this README. All NLP methods, experiments and results come from our team's notebook; the code was reviewed and the tests were run before committing. TODO (Khalida): add any other AI tools the team used during the project, as required by the course policy.
+AI tools were used to help organise this repository: refactoring the notebook's code into the `src/` module files, writing docstrings, tests and documentation (summarised from our technical report), and drafting this README. All NLP methods, experiments and results come from our team's notebook; the code was reviewed and the tests were run before committing.
 
 ## 📚 Data & references
 BBC dataset: Greene & Cunningham (2006), via Kaggle *learn-ai-bbc*. Methods: LDA (Blei et al., 2003), NMF (Lee & Seung, 1999), TextRank (Mihalcea & Tarau, 2004), VADER (Hutto & Gilbert, 2014); libraries scikit-learn, NLTK, spaCy, langdetect, deep-translator.
