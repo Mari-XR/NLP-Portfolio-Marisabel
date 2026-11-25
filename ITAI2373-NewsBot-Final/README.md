@@ -67,7 +67,7 @@ ITAI2373-NewsBot-Final/
 └── reports/           executive_summary.pdf, technical_report.pdf, presentation_slides.pdf,
                        FP_* originals, FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf
 ```
-The numbered notebooks are sections split out of the full notebook (outputs preserved); the full notebook `FP_NewsBot2_ksm_GroupName_ITAI2373.ipynb` is the one that runs end to end.
+The numbered notebooks are sections split out of the full notebook (outputs preserved); the full notebook `FP_NewsBot2_PurpleBerries_ITAI2373.ipynb` is the one that runs end to end.
 
 ## ⚙️ Setup
 ```bash
