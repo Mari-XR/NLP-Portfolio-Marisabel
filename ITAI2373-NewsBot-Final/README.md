@@ -89,7 +89,7 @@ print(bot.ask("show positive tech articles and summarize article 3"))
 ```
 
 ## ☁️ Running in Google Colab
-1. Open `notebooks/FP_NewsBot2_ksm_GroupName_ITAI2373.ipynb` in Colab (File → Open notebook → GitHub → paste this repo URL).
+1. Open `notebooks/FP_NewsBot2_PurpleBerries_ITAI2373.ipynb` in Colab (File → Open notebook → GitHub → paste this repo URL).
 2. Run the first cell and upload `kaggle.json` when prompted (the notebook downloads the `learn-ai-bbc` dataset). Without Kaggle: upload `data/raw/BBC News Train.csv` to the Colab file panel and skip the Kaggle cells.
 3. **Runtime → Run all.** Everything trains in about 1–2 minutes on CPU. Translation cells need internet.
 4. The interactive chat loop at the end is commented out so "Run all" does not block — uncomment to try it.
