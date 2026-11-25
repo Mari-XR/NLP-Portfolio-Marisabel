@@ -94,7 +94,7 @@ print(bot.ask("show positive tech articles and summarize article 3"))
 3. **Runtime → Run all.** Everything trains in about 1–2 minutes on CPU. Translation cells need internet.
 4. The interactive chat loop at the end is commented out so "Run all" does not block — uncomment to try it.
 
-## 👩‍💻 Individual contribution summary – Khalida Bestani
+## 👩‍💻 Individual contribution summary – Marisabel Morales
 Per the team's technical documentation, Khalida led **Module A – Advanced Content Analysis** (classification with tuning and confidence scores, LDA/NMF topic modeling, sentiment, entity relationships) and shared **Module D** (intent processing, query handling, system integration). Presenter for slides 3–8.
 
 - **My key work:** I worked on Module C (Multilingual Intelligence), collaborated on Module D (Conversational Interface), and developed the NewsBot 2.0 web application using Streamlit. I integrated all four NLP modules into an interactive interface and published the application online.
