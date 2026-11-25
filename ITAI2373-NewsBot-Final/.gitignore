@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+config/api_keys.txt
+kaggle.json
+data/models/*.joblib
+newsbot_report.md
+*.mp4
+*.mov
