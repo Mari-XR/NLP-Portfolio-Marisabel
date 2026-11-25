@@ -2,7 +2,7 @@
 
 **ITAI 2373 – Natural Language Processing · Final Project**
 **Team Purple Berries:** Khalida Bestani · Marisabel Morales · Sadea Saeed
-**Portfolio owner:** Khalida Bestani – [NLP-Portfolio_KhalidaBestani](https://github.com/bestbout/NLP-Portfolio_KhalidaBestani)
+**Portfolio owner:** Marisabel Morales – [NLP-Portfolio_Marisabel Morales](https://github.com/Mari-XR/NLP-Portfolio-Marisabel.git)
 
 NewsBot 2.0 is an NLP system that analyses BBC news articles: it classifies them into five categories with confidence scores, discovers topics, measures sentiment, maps entity relationships, writes extractive summaries, searches articles semantically, works across languages, and answers questions through a conversational interface. It extends our [midterm NewsBot](../ITAI2373-NewsBot-Midterm/).
 
